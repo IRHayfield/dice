@@ -18,7 +18,7 @@ setup(
     long_description=readme,
     author='Ian Hayfield',
     author_email='irhayf@gmail.com',
-    url='https://github.com/irhayf/dice',
+    url='https://github.com/IRHayfield/dice.git',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
